@@ -1,5 +1,5 @@
 Activando modo Instructor Virtual
-Marciano Tech © 2023 Copiright
+Marciano Tech © 2023 Copyright
 
 ```
 <start>
